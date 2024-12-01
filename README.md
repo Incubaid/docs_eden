@@ -2,7 +2,9 @@
 
 just edit the docs in directory 'docs'
 
-the site will be autobuild on [https://info.ourworld.tf/eden](https://info.ourworld.tf/eden)
+the site will be published on 
+
+> [https://threefold.info/eden/intron](https://threefold.info/eden/intro)
 
 
 
