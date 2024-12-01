@@ -5,7 +5,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 const config: Config = {
   title: 'Docs',
   tagline: 'Lets build the future together.',
-  favicon: 'img/favicon.png',
+  favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
   url: 'https://www.ourworld.tf',
@@ -79,7 +79,7 @@ const config: Config = {
       disableSwitch: true,
       respectPrefersColorScheme: false,
     },
-    image: 'img/favicon.png',
+    image: 'img/favicon.ico',
     navbar: {
       title: '',
       logo: {
