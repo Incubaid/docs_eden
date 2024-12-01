@@ -1,3 +1,6 @@
 # Budget
 
 *Content coming soon*
+
+.
+
