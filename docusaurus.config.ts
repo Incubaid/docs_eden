@@ -66,7 +66,7 @@ const config: Config = {
         redirects: [
           {
             from: '/',
-            to: '/eden/intro',
+            to: 'https://threefold.info/eden/intro',
           },
         ],
       },
